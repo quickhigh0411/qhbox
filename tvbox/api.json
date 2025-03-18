@@ -114,6 +114,23 @@
             }
         },
         {
+            "key": "哔哩弹幕",
+            "name": "哔哩｜弹幕",
+            "type": 3,
+            "api": "csp_Bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+            },
+            "timeout": 10
+        },
+        {
 			"key": "Bili",
 			"name": "🅱哔哔合集┃弹幕",
 			"type": 3,
@@ -976,6 +993,76 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/碟调影视.js"
+        },
+        {
+            "key": "八号影视",
+            "name": "八号｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/八号影视.json"
+        },
+        {
+            "key": "盒子影视",
+            "name": "盒子｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/盒子影视.json"
+        },
+        {
+            "key": "九八影视",
+            "name": "九八｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/九八影视.json"
+        },
+        {
+            "key": "看看影视",
+            "name": "看看｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/看看影视.json"
+        },
+        {
+            "key": "七新影视",
+            "name": "七新｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/七新影视.json"
+        },
+        {
+            "key": "骚火影视",
+            "name": "骚火｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/骚火影视.json"
+        },
+        {
+            "key": "星辰影视",
+            "name": "星辰｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/星辰影视.json"
         },
         {
             "key": "百思派",

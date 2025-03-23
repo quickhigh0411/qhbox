@@ -70,6 +70,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "playerType": 1,
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
@@ -83,6 +84,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "playerType": 1,
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YucmJvdHYuY24="
@@ -96,6 +98,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "playerType": 1,
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YubGt1eXMuY24="
@@ -131,6 +134,24 @@
             "timeout": 10
         },
         {
+            "key": "哔哩合集",
+            "name": "哔哩合集｜弹幕",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+                "json": "./JSON/哔哩合集.json"
+            },
+            "timeout": 10
+        },
+		{
 			"key": "Bili",
 			"name": "🅱哔哔合集┃弹幕",
 			"type": 3,
@@ -141,7 +162,7 @@
 			},
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"filterable": 1,
 			"ext": {
 				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
 				"json": "./JSON/bilibili.json"
@@ -157,8 +178,8 @@
 				"ratio": 1.597
 			},
 			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
+			"quickSearch": 1,
+			"filterable": 1,
 			"ext": {
 				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
 				"json": "./JSON/biliych.json"
@@ -484,7 +505,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://2xiaopan.fun",
+                "site": "https://erxiao.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -516,7 +537,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://woss.fenwe.eu.org",
+                "site": "https://woss.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -532,7 +553,23 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://149.88.87.18:6688",
+                "site": "https://dawo.banye.tech:7086",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克虎斑弹幕",
+            "name": "虎斑｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://huban.banye.tech:7086",
                 "danmu": true
             }
         },
@@ -752,6 +789,14 @@
             "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="
         },
         {
+            "key": "龙虾",
+            "name": "龙虾｜APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL3BweC5iangzNjUudG9wfHBpcGl4aWEyMTc1MjIzMjR8cGlwaXhpYTIxNzUyMjMyNHw1MDY="
+        },
+        {
             "key": "时常",
             "name": "时常｜APP",
             "type": 3,
@@ -806,17 +851,6 @@
             "api": "csp_Hudie",
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-        },
-        {
-            "key": "蚂蚁",
-            "name": "蚂蚁｜APP",
-            "type": 3,
-            "api": "csp_Mayiys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "playerType": 1,
-            "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
         },
         {
             "key": "快看",
@@ -1690,6 +1724,15 @@
             "ext": "./XBPQ/修罗影视.json"
         },
         {
+            "key": "七味",
+            "name": "七味｜磁力",
+            "type": 3,
+            "api": "csp_QnMp4",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "80S",
             "name": "80S｜磁力",
             "type": 3,
@@ -1717,13 +1760,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "磁力熊",
-            "name": "磁力熊｜磁力",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/磁力熊.js"
         },
         {
             "key": "美剧迷",
@@ -1807,6 +1843,15 @@
             "name": "美剧天堂｜磁力",
             "type": 3,
             "api": "csp_MeijuTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "电影天堂",
+            "name": "电影天堂｜磁力",
+            "type": 3,
+            "api": "csp_DyGod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -2161,6 +2206,15 @@
             ],
             "script": [
                 "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        },
+        {
+            "name": "ofiii",
+            "hosts": [
+                "www.ofiii.com"
+            ],
+            "script": [
+                "const play=document.getElementsByClassName('play_icon')[0],event=new MouseEvent('click',{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
             ]
         }
     ],

@@ -1933,6 +1933,27 @@
 			}
 		},
 		{
+			  "name": "巧计",
+			  "url": "https://zhxy.eu.org/parse/巧计?url=",
+			  "type": 1,
+			  "ext": {
+				"flag": [
+				  "qiyi",
+				  "imgo",
+				  "爱奇艺",
+				  "奇艺",
+				  "qq",
+				  "qq 预告及花絮",
+				  "腾讯",
+				  "youku",
+				  "优酷"
+				]
+			  },
+			  "header": {
+				"User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+			  }
+		},
+		{
 			"name": "987解析",
 			"type": "1",
 			"url": "http://openapi.973973.xyz/open/api_free/index/?url=",
@@ -1961,35 +1982,6 @@
 				}
 			}
 		},
-		{
-            "name": "夏夜",
-            "type": "1",
-            "url": "http://8.155.50.80/xiaye.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
         {
             "name": "羊羊",
             "type": 1,

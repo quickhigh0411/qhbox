@@ -171,7 +171,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
-				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
 				"json": "./json/bilibili.json"
 			}
 		},
@@ -188,7 +188,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
-				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
 				"json": "./json/biliych.json"
 			}
 		},
@@ -205,7 +205,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": {
-				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
 				"json": "./json/sejy.json"
 			}
 		},
@@ -222,7 +222,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": {
-				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
 				"json": "./json/xxkt.json"
 			}
 		},
@@ -239,7 +239,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": {
-				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
 				"json": "./json/cckt.json"
 			}
 		},
@@ -256,7 +256,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": {
-				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
 				"json": "./json/gzkt.json"
 			}
 		},

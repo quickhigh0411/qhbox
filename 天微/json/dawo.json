@@ -1,17 +1,17 @@
 {
-    "SiteUrl": "https://ouge.banye.tech:7086",
+    "SiteUrl": "https://dawo.banye.tech:7086",
     "Domains": [
-        "https://woog.nxog.eu.org"
+        "http://149.88.87.18:6688"
     ],
-    "SiteWord": "og",
-    "SiteName": "欧歌",
+    "SiteWord": "dawo",
+    "SiteName": "大玩偶",
     "Classes": [
         {
             "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "剧集",
+            "type_name": "电视剧",
             "type_id": "2"
         },
         {
@@ -23,8 +23,20 @@
             "type_id": "4"
         },
         {
-            "type_name": "短剧",
+            "type_name": "音乐",
             "type_id": "5"
+        },
+        {
+            "type_name": "短剧",
+            "type_id": "20"
+        },
+        {
+            "type_name": "纪录片",
+            "type_id": "21"
+        },
+        {
+            "type_name": "4k高码",
+            "type_id": "22"
         }
     ],
     "Filters": {

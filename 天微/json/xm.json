@@ -1,10 +1,13 @@
 {
-    "SiteUrl": "https://ouge.banye.tech:7086",
+    "SiteUrl": "https://xiaomi.banye.tech:7086",
     "Domains": [
-        "https://woog.nxog.eu.org"
+        "https://www.milvdou.fun",
+        "https://www.mucpan.cc",
+        "https://mucpan.cc",
+        "http://milvdou.fun"
     ],
-    "SiteWord": "og",
-    "SiteName": "欧歌",
+    "SiteWord": "xm",
+    "SiteName": "小米",
     "Classes": [
         {
             "type_name": "电影",
@@ -15,16 +18,12 @@
             "type_id": "2"
         },
         {
-            "type_name": "动漫",
-            "type_id": "3"
-        },
-        {
             "type_name": "综艺",
             "type_id": "4"
         },
         {
-            "type_name": "短剧",
-            "type_id": "5"
+            "type_name": "动漫",
+            "type_id": "3"
         }
     ],
     "Filters": {

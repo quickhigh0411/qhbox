@@ -1181,7 +1181,65 @@
           "皮皮虾4K"
         ]
       }
-    }
+    },
+	{
+		"name": "公益",
+		"type": "1",
+		"url": "http://kcjx.zwzs.fun/json.php?url=",
+		"ext": {
+			"flag": [
+				"qq",
+				"腾讯",
+				"qiyi",
+				"爱奇艺",
+				"奇艺",
+				"youku",
+				"优酷",
+				"sohu",
+				"搜狐",
+				"letv",
+				"乐视",
+				"mgtv",
+				"芒果",
+				"tnmb",
+				"seven",
+				"bilibili",
+				"1905"
+			],
+			"header": {
+				"User-Agent": "okhttp/4.9.1"
+			}
+		}
+	},
+	{
+		"name": "摸鱼",
+		"type": "1",
+		"url": "http://zhuimi.xn--v4q818bf34b.com/moyu/zhuimi?token=nTGJNppc&url=",
+		"ext": {
+			"flag": [
+				"qq",
+				"腾讯",
+				"qiyi",
+				"爱奇艺",
+				"奇艺",
+				"youku",
+				"优酷",
+				"sohu",
+				"搜狐",
+				"letv",
+				"乐视",
+				"mgtv",
+				"芒果",
+				"tnmb",
+				"seven",
+				"bilibili",
+				"1905"
+			],
+			"header": {
+				"User-Agent": "okhttp/4.9.1"
+			}
+		}
+	}
   ],
   "rules": [
     {

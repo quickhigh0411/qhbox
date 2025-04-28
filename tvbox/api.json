@@ -132,7 +132,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://www.zjc.app/",
+                "url": "https://www.zjc.app",
                 "dataKey": "ab4e9a421675f14b",
                 "dataIv": "ab4e9a421675f14b",
                 "deviceId": "",
@@ -202,7 +202,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://111.180.198.40:1110/api.php",
+                "url": "http://111.180.198.40:1110",
                 "dataKey": "asgcxhjkts124573",
                 "dataIv": "asgcxhjkts124573",
                 "deviceId": "",
@@ -216,7 +216,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://156.225.30.65:5566/api.php",
+                "url": "http://156.225.30.65:5566",
                 "dataKey": "DxwIstrdWbYpblwn",
                 "dataIv": "DxwIstrdWbYpblwn",
                 "deviceId": "",
@@ -249,6 +249,20 @@
                 "dataIv": "123456789ABCDEFG",
                 "deviceId": "",
                 "version": ""
+            }
+        },
+        {
+            "key": "星河",
+            "name": "星河｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://121.62.22.204:9876",
+                "dataKey": "f5e2tx53ykp6s2c9",
+                "dataIv": "f5e2tx53ykp6s2c9",
+                "deviceId": "",
+                "version": "361"
             }
         },
         {
@@ -1418,7 +1432,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://app.omofun1.top/api.php",
+                "url": "https://app.omofun1.top",
                 "dataKey": "66dc309cbeeca454",
                 "dataIv": "66dc309cbeeca454",
                 "deviceId": "",

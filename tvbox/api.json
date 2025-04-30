@@ -1158,7 +1158,7 @@
             ]
         },
 		{
-            "key": "魔爪资源",
+            "key": "mzm3u8",
             "name": "魔爪｜采集",
             "type": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod/",

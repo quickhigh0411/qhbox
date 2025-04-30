@@ -1982,6 +1982,19 @@
             }
         },
 		{
+            "name": "魔爪",
+            "type": 1,
+            "url": "https://mzm3u8jx.com/aliplayer.html?url=",
+            "ext": {
+                "flag": [
+                    "mzm3u8"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+		{
 			"name": "虾米",
 			"url": "https://jx.xmflv.com/?url=",
 			"type": 0,

@@ -1156,33 +1156,6 @@
                 "纪录片",
                 "国产动漫"
             ]
-        },
-		{
-            "key": "mzm3u8",
-            "name": "魔爪｜采集",
-            "type": 1,
-            "api": "https://mozhuazy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-				"记录片",
-                "国产剧",
-                "香港剧",
-                "日本剧",
-                "欧美剧",
-                "台湾剧",
-                "泰剧",
-                "韩剧",
-                "纪录片",
-                "国产动漫"
-            ]
         },		
 		{
             "key": "茅台资源",
@@ -1980,20 +1953,7 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
-        },
-		{
-            "name": "魔爪",
-            "type": 1,
-            "url": "https://mzm3u8jx.com/aliplayer.html?url=",
-            "ext": {
-                "flag": [
-                    "mzm3u8"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
+        },		
 		{
 			"name": "虾米",
 			"url": "https://jx.xmflv.com/?url=",

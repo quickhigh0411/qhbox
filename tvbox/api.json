@@ -1129,6 +1129,34 @@
             "quickSearch": 0,
             "filterable": 0
         },
+		{
+            "key": "电影天堂资源",
+            "name": "电影天堂｜采集",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+				"伦理片",
+				"记录片",
+                "国产剧",
+                "香港剧",
+                "日本剧",
+                "欧美剧",
+                "台湾剧",
+                "泰剧",
+                "韩剧",
+                "纪录片",
+                "动漫电影"
+            ]
+        },
         {
             "key": "红牛资源",
             "name": "红牛｜采集",

@@ -1198,8 +1198,8 @@
                 "日本剧",
                 "欧美剧",
                 "台湾剧",
-                "泰剧",
-                "韩剧",
+                "泰国剧",
+                "韩国剧",
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -1210,7 +1210,8 @@
 				"伦理片",
 				"记录片",
                 "动画片",
-                "国产动漫"
+                "国产动漫",
+				"短剧"
             ]
         },
         {
@@ -2230,13 +2231,6 @@
             "name": "AI直播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        },
-        {
-            "name": "AI直播+",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
         },

@@ -2036,27 +2036,7 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
-        },	
-		{
-            "name": "茅台资源",
-            "type": 1,
-            "url": "https://mtjiexi.cc:966/?url=",
-            "ext": {
-                "flag": [
-                    "茅台资源",
-                    "茅台云",
-                    "duanju",
-                    "gzcj",
-                    "GTV",
-                    "GZYS",
-                    "weggz",
-                    "Ace"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },			
+        },				
 		{
 			"name": "虾米",
 			"url": "https://jx.xmflv.com/?url=",

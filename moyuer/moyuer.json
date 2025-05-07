@@ -476,8 +476,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/drpy2.min.js",
-            "ext": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/jp.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/jp.js"
         },
         {
             "key": "厂长",
@@ -733,7 +733,7 @@
             "key": "河马短剧",
             "name": "🦛河马┃短剧┃热推",
             "type": 3,
-            "api": "http:\/\/我不是.摸鱼儿.com\/py\/河马短剧.py",
+            "api": "./lib/河马短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -744,7 +744,7 @@
             "key": "偷乐短剧",
             "name": "🤣偷乐┃短剧┃热推",
             "type": 3,
-            "api": "http:\/\/我不是.摸鱼儿.com\/py\/偷乐短剧.py",
+            "api": "./lib/偷乐短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -755,8 +755,8 @@
             "key": "去看吧",
             "name": "🫣看吧┃动漫┃蓝光",
             "type": 3,
-            "api": "https:\/\/github.moeyy.xyz\/https:\/\/raw.githubusercontent.com\/PizazzGY\/TVBox\/main\/JS\/drpy.min.js",
-            "ext": "https:\/\/github.moeyy.xyz\/https:\/\/raw.githubusercontent.com\/PizazzGY\/TVBox\/main\/JS\/去看吧.js"
+            "api": "./lib/drpy.min.js",
+            "ext": "./lib/去看吧.js"
         },
         {
             "key": "csp_Ysj",
@@ -812,7 +812,7 @@
             "key": "斗鱼js",
             "name": "🐟斗鱼┃娱乐┃蓝光",
             "type": 3,
-            "api": "https:\/\/gh-proxy.net\/https:\/\/raw.githubusercontent.com\/fantaiying7\/EXT\/refs\/heads\/main\/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "https:\/\/gh-proxy.net\/https:\/\/raw.githubusercontent.com\/fantaiying7\/EXT\/refs\/heads\/main\/斗鱼直播.js",
             "style": {
                 "type": "rect",
@@ -828,7 +828,7 @@
             "key": "有声小说js",
             "name": "📻️戏曲┃娱乐┃蓝光",
             "type": 3,
-            "api": "https:\/\/gh-proxy.net\/https:\/\/raw.githubusercontent.com\/fantaiying7\/EXT\/refs\/heads\/main\/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "https:\/\/gh-proxy.net\/https:\/\/raw.githubusercontent.com\/fantaiying7\/EXT\/refs\/heads\/main\/有声小说吧.js",
             "style": {
                 "type": "rect",
@@ -875,7 +875,7 @@
             "key": "有声小说js",
             "name": "📚有声┃小说┃娱乐",
             "type": 3,
-            "api": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/有声小说吧.js",
             "style": {
                 "type": "rect",
@@ -1184,7 +1184,7 @@
             "key": "88js",
             "name": "⚽ 88┃看球┃直播",
             "type": 3,
-            "api": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/88看球.js",
             "style": {
                 "type": "list"
@@ -1197,7 +1197,7 @@
             "key": "Jrsjs",
             "name": "⚽ Jrs┃球迷┃直播",
             "type": 3,
-            "api": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "https:\/\/gitlab.com\/fantaiying\/ext\/-\/raw\/main\/jrk.js",
             "style": {
                 "type": "list"

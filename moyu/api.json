@@ -356,14 +356,14 @@
             "name": "🌀沐风┃蓝光┃无广",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=664k"
+            "ext": "./json/664k.json"
         },
         {
             "key": "4Kdy",
             "name": "🕊️凝安┃蓝光┃无广",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=4kdy"
+            "ext": "./json/4kdy.json"
         },
         {
             "key": "nk",
@@ -653,7 +653,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=55"
+            "ext": "./json/55.json"
         },
         {
             "key": "雨滴",
@@ -698,7 +698,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-            "ext": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=面包"
+            "ext": "./json/面包.json"
         },
         {
             "key": "三六零弹幕",
@@ -916,7 +916,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=哔哩合集"
+                "json": "./json/哔哩合集.json"
             }
         },
         {
@@ -932,7 +932,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=mtv"
+                "json": "./json/mtv.json"
             }
         },
         {
@@ -962,7 +962,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=少儿教育"
+                "json": "./json/少儿教育.json"
             }
         },
         {
@@ -978,7 +978,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=小学教育"
+                "json": "./json/小学教育.json"
             }
         },
         {
@@ -994,7 +994,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=初中课堂"
+                "json": "./json/初中课堂.json"
             }
         },
         {
@@ -1010,7 +1010,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=高中课堂"
+                "json": "./json/高中课堂.json"
             }
         },
         {

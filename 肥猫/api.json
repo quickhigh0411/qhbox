@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "spider": "./spider.jar",
@@ -51,9 +51,38 @@
                     "https://feimao666.fun",
                     "http://feimao888.fun",
                     "http://feimaoai.site",
-                    "http://www.labi88.sbs"
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "https://fmao.shop"
                 ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
                 "url_key": "Duopan2"
+            }
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "💌┃️至臻┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://xiaomi666.fun",
+                    "https://xiaomiai.site",
+                    "http://www.miqk.cc",
+                    "https://mihdr.top"
+                ],
+                "url_key": "Netfixtv2",
+                "token": "",
+                "ucCookie": "",
+                "quarkCookie": "",
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                }
             }
         },
         {
@@ -101,44 +130,6 @@
             "name": "🎉️┃私人┃影城",
             "type": 3,
             "api": "csp_Siren"
-        },
-        {
-            "key": "csp_XMUC",
-            "name": "🍚┃小米┃UC",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://www.mucpan.cc",
-                    "https://milvdou.fun",
-                    "https://54271.fun"
-                ],
-                "url_key": "XMUC"
-            }
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "💌┃️至臻┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://xiaomi666.fun",
-                    "https://xiaomiai.site",
-                    "http://www.miqk.cc",
-                    "https://mihdr.top"
-                ],
-                "url_key": "Netfixtv2",
-                "token": "",
-                "ucCookie": "",
-                "quarkCookie": "",
-                "threadinfo": {
-                    "chunksize": 450,
-                    "threads": 10
-                }
-            }
         },
         {
             "key": "csp_Panda_玩偶哥哥",
@@ -270,24 +261,11 @@
             }
         },
         {
-            "key": "csp_BookTing",
-            "name": "📚┃听书┃音频",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_BookTing",
-            "searchable": 0,
-            "ext": "https://m.ting275.com",
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            }
-        },
-        {
             "key": "csp_YouShengBook",
-            "name": "📚┃有声┃小说",
+            "name": "📚┃六月┃听书",
             "type": 3,
             "playerType": "2",
-            "api": "csp_LaoBaiBook",
+            "api": "csp_TingBook",
             "searchable": 0,
             "style": {
                 "type": "rect",

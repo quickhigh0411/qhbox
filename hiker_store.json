@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "本地仓库",
-            "sourceUrl": "clan://localhost/tvboxKX/hiker_offline.json"
+            "sourceUrl": "clan://localhost/TVBoxOSC/hiker_offline.json"
         },
 		{
             "sourceName": "在线仓库",

@@ -1,40 +1,44 @@
 {
     "urls": [				
 		{
-            "url": "clan://localhost/tvboxKX/潇洒/api.json",
+            "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
             "name": "本地【潇洒线路】"
         },
 		{
-            "url": "clan://localhost/tvboxKX/moyu/api.json",
+            "url": "clan://localhost/TVBoxOSC/moyu/api.json",
             "name": "本地【摸鱼线路】"
         },		
         {
-            "url": "clan://localhost/tvboxKX/天微/api.json",
+            "url": "clan://localhost/TVBoxOSC/天微/api.json",
             "name": "本地【天微VIP线】"
         },
 		{
-            "url": "clan://localhost/tvboxKX/饭太硬/api.json",
+            "url": "clan://localhost/TVBoxOSC/饭太硬/api.json",
             "name": "本地【饭太硬线】"
         },
         {
-            "url": "clan://localhost/tvboxKX/肥猫/api.json",
+            "url": "clan://localhost/TVBoxOSC/肥猫/api.json",
             "name": "本地【肥猫线路】"
         },
         {
-            "url": "clan://localhost/tvboxKX/道长/index.json",
+            "url": "clan://localhost/TVBoxOSC/道长/index.json",
             "name": "本地【道长本地】"
         },   
         {
-            "url": "clan://localhost/tvboxKX/OK/api.json",
+            "url": "clan://localhost/TVBoxOSC/OK/api.json",
             "name": "本地【OK线路】"
         },		      
 		{
-            "url": "clan://localhost/tvboxKX/香雅情/api.json",
+            "url": "clan://localhost/TVBoxOSC/香雅情/api.json",
             "name": "本地【香雅情线】"
         },
 		{
 			"url": "http://我不是.摸鱼儿.com",
 			"name": "在线【摸鱼儿线】"
+		},
+		{
+			"url": "http://zhuimi.摸鱼儿.com/moyuer?token=nLK89qnj",
+			"name": "在线【摸鱼儿私有】"
 		},
 		{
 			"url": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/index.json",

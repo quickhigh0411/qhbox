@@ -1,7 +1,7 @@
 {
-    "spider": "./moyuer.jar;md5;FE074B8421A2B263E54C0E93F3C09DB3",
-    "wallpaper": "http:\/\/我不是.摸鱼儿.com\/wallpaper\/",
-    "logo": "https:\/\/s1.imagehub.cc\/images\/2024\/06\/11\/80538bfb3835ffebf7c5fd0716280801.jpeg",
+    "spider": "./moyuer.jar;md5;fe074b8421a2b263e54c0e93f3c09db3",
+    "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
+    "logo": "https://s1.imagehub.cc/images/2024/06/11/80538bfb3835ffebf7c5fd0716280801.jpeg",
     "warningText": "摸鱼儿：资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
     "sites": [
         {
@@ -27,7 +27,7 @@
             "name": "🚀辅助┃配置┃中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "quickSearch": 0,
             "style": {
@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/哔哩视频.js"
+            "ext": "./js/biliys.js"
         },
         {
             "key": "小艺视频JS",
@@ -96,9 +96,9 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto",
-                "siteUrl": "https:\/\/www.wogg.one\/",
+                "siteUrl": "https://www.wogg.one/",
                 "danMu": "弹"
             }
         },
@@ -115,7 +115,7 @@
             "name": "🍁优汐木偶┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -126,7 +126,7 @@
             "name": "🐂小二资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -138,7 +138,7 @@
             "name": "🖍︎蜡笔资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -150,7 +150,7 @@
             "name": "🏆️夸克至臻┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -162,7 +162,7 @@
             "name": "🍡多多网盘┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -174,7 +174,7 @@
             "name": "✊️团长网盘┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebTz",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0
@@ -184,7 +184,7 @@
             "name": "🐋天翼雷鲸┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudLJ",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -195,41 +195,11 @@
             "ext": "./json/lj.json"
         },
         {
-            "key": "cloudHM",
-            "name": "🧽海绵网盘┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudHM",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": "./json/hm.json"
-        },
-        {
-            "key": "pan1",
-            "name": "🧊Pan1网盘┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloud123",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": "./json/pan1.json"
-        },
-        {
             "key": "趣盘",
             "name": "🥳百度趣盘┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebQu",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -238,7 +208,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "url": "https:\/\/www.qupanshe.com"
+                "url": "https://www.qupanshe.com"
             }
         },
         {
@@ -246,7 +216,7 @@
             "name": "🐻夸父资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudKF",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -262,14 +232,30 @@
             "name": "🐼盘库资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebKuBa",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "url": "https:\/\/panku8.com,https:\/\/yipanso.com"
+                "url": "https://panku8.com,https://yipanso.com"
             }
+        },
+        {
+            "key": "聚搜",
+            "name": "🥶聚合搜索┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebSearch",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/aliyunpansearch.json"
         },
         {
             "key": "alllive",
@@ -282,6 +268,36 @@
             "changeable": 0
         },
         {
+            "key": "诺雪",
+            "name": "❄️若雪┃蓝光┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "url": "https://appcms.rx4k.top",
+                "dataKey": "LiGFzV6csf21zsu6",
+                "dataIv": "LiGFzV6csf21zsu6",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "仓鼠",
+            "name": "🐹仓鼠┃蓝光┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "url": "https://appcms.cs4k.top",
+                "dataKey": "Hui6595253......",
+                "dataIv": "Hui6595253......",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
             "key": "金牌影视",
             "name": "🏅金牌┃蓝光┃无广",
             "type": 3,
@@ -291,7 +307,22 @@
             "filterable": 1,
             "playerType": 2,
             "ext": {
-                "site": "https:\/\/www.hkybqufgh.com,https:\/\/www.sizhengxt.com,https:\/\/0996zp.com,https:\/\/9zhoukj.com\/,https:\/\/www.sizhengxt.com,https:\/\/www.tjrongze.com,https:\/\/www.jiabaide.cn,https:\/\/cqzuoer.com"
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            }
+        },
+        {
+            "key": "彼岸",
+            "name": "🍂菲菲┃蓝光┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "url": "http://172.247.44.217:30012",
+                "dataKey": "JLa1oRdL6+eK7@M)",
+                "dataIv": "JLa1oRdL6+eK7@M)",
+                "deviceId": "",
+                "version": ""
             }
         },
         {
@@ -299,9 +330,9 @@
             "name": "🥪菲菲┃蓝光┃无广",
             "type": 3,
             "api": "csp_AppFerr",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "ext": {
-                "url": "https:\/\/appcms.freehd.vip",
+                "url": "https://appcms.freehd.vip",
                 "dataKey": "be5348dfb0c3c283",
                 "dataIv": "5f5449dd14313217"
             }
@@ -312,9 +343,9 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "ext": {
-                "url": "https:\/\/api1.bffree.cn",
+                "url": "https://api1.bffree.cn",
                 "dataKey": "2015692015692015",
                 "dataIv": "2015692015692015",
                 "deviceId": "",
@@ -327,9 +358,9 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "ext": {
-                "url": "https:\/\/c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
+                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
                 "dataKey": "k9o3p2c8b7m3z0o8",
                 "dataIv": "k9o3p2c8b7m3z0o8",
                 "deviceId": "",
@@ -342,13 +373,13 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "ext": {
-                "url": "https:\/\/svip1.fun",
-                "dataKey": "laodiesdawsswasd",
-                "dataIv": "laodiesdawsswasd",
+                "url": "https://www.xiaohys.com",
+                "dataKey": "ENonBHeVBoYZhVUV",
+                "dataIv": "ENonBHeVBoYZhVUV",
                 "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-                "version": "105"
+                "version": "166"
             }
         },
         {
@@ -370,17 +401,17 @@
             "name": "🫣耐看┃蓝光┃无广",
             "type": 3,
             "api": "csp_WebNK",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "changeable": 0,
-            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKewpvDncOpw57Cp8OnwphXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ\/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgw5fDn8Ocw6zCrMKgwqR7w57DrMKhwrPCmlrCp8KlwqnDosKpwrDCr8KhwrA="
+            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKewpvDncOpw57Cp8OnwphXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgw5fDn8Ocw6zCrMKgwqR7w57DrMKhwrPCmlrCp8KlwqnDosKpwrDCr8KhwrA="
         },
         {
             "key": "瓜子影视",
             "name": "🍉瓜子┃蓝光┃无广",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -445,7 +476,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -487,7 +518,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "uqGL1bNENEIVq+dC1p\/Y9uWjuA=="
+            "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
         },
         {
             "key": "欢视",
@@ -509,7 +540,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "uqGL1bNENExT7\/hGxpSE5qU="
+            "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
             "key": "zxzj",
@@ -520,7 +551,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https:\/\/www.zxzjhd.com\/"
+            "ext": "https://www.zxzjhd.com/"
         },
         {
             "key": "低端",
@@ -540,8 +571,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/jp.js"
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
             "key": "厂长",
@@ -583,7 +614,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https:\/\/auete.com\/"
+            "ext": "https://auete.com/"
         },
         {
             "key": "新6V",
@@ -593,19 +624,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "https:\/\/www.xb6v.com\/"
+            "ext": "https://www.xb6v.com/"
         },
         {
             "key": "热播影视",
             "name": "📺热播┃多线┃弹幕",
             "type": 3,
             "api": "csp_AppRJ",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": {
-                "url": "http:\/\/v.rbotv.cn"
+                "url": "http://v.rbotv.cn"
             }
         },
         {
@@ -613,12 +644,12 @@
             "name": "⛅️天天┃蓝光┃弹幕",
             "type": 3,
             "api": "csp_AppRJ",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": {
-                "url": "http:\/\/tt.ysdqjs.cn"
+                "url": "http://tt.ysdqjs.cn"
             }
         },
         {
@@ -626,12 +657,12 @@
             "name": "😎浪酷┃蓝光┃弹幕",
             "type": 3,
             "api": "csp_AppRJ",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": {
-                "url": "http:\/\/v.lkuys.cn"
+                "url": "http://v.lkuys.cn"
             }
         },
         {
@@ -642,14 +673,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https:\/\/www.tvkuys.xyz\/api.php\/app\/"
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
             "key": "五五影视",
             "name": "😭呜呜┃蓝光┃无广",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -660,7 +691,7 @@
             "name": "🌿雨滴┃蓝光┃无广",
             "type": 3,
             "api": "csp_Xdai",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "playerType": 1,
             "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
         },
@@ -669,14 +700,14 @@
             "name": "🦋蝴蝶┃蓝光┃纯净",
             "type": 3,
             "api": "csp_Hudie",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
         },
         {
             "key": "二三",
             "name": "🍧二三┃蓝光┃纯净",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "type": 3,
             "api": "csp_Muou",
             "playerType": 2,
@@ -687,7 +718,7 @@
             "name": "🍆洽洽┃蓝光┃纯净",
             "type": 3,
             "api": "csp_AppGZ",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -697,7 +728,7 @@
             "name": "🍞面包┃蓝光┃无广",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "ext": "./json/面包.json"
         },
         {
@@ -705,40 +736,14 @@
             "name": "🫐三六┃蓝光┃纯净",
             "type": 3,
             "api": "csp_Sp360",
-            "jar": "./moyuer.jar"
-        },
-        {
-            "key": "央视经典",
-            "name": "🇨🇳央视┃经典┃合集",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=央视经典"
-        },
-        {
-            "key": "cctv",
-            "name": "🇨🇳央视┃能量┃合集",
-            "type": 3,
-            "api": "csp_AuthCCTV",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": "http:\/\/我不是.摸鱼儿.com\/json\/cctv.json"
-        },
+            "jar": "./lib/danmu.jar"
+        },       
         {
             "key": "1905",
             "name": "🍭1905┃纯净┃蓝光",
             "type": 3,
             "api": "csp_Web1905",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
@@ -748,47 +753,40 @@
             "name": "😄DFun┃动漫┃蓝光",
             "type": 3,
             "api": "csp_WebMuTeFun",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https:\/\/www.mutefun.tv"
-        },
-        {
-            "key": "樱花",
-            "name": "🌸樱花┃动漫┃樱花",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http:\/\/我不是.摸鱼儿.com\/api\/moyu.php?file=樱花"
-        },
+            "ext": "https://www.mutefun.tv"
+        },      
         {
             "key": "mb",
             "name": "🍼曼波┃动漫┃蓝光",
             "type": 3,
             "api": "csp_AppGetApp",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjwqNqX8Kow5TDqsOpwqjCosKdwp\/ClsOuw6HCq8Knw67CosKgX8KRw6nDnMKow6nDosKjV1xQwqDDp8Ojw6nCoW1QV8KL5Ye+6YWb5pCf5ZGcwqblhp\/kvYflkKdq5b+q6Ki56La+5ryJ562TwpBXXFDCoMK0w5\/DrMOFwpjCqVdqwpnCmsKwwq\/DnsKWY2Bpw5zDlcOfw57DncKUZGVkwqDCn8KawqDCu8KYwqN5wqbCoMKtwprCoMKwacKUwpNjwqnCrMOdw5vDn8KYwpPCkWTCrsKnwqHCpcKaWsKUwpXCk8Orw6zDqsOtw4XCmMKpV2rCmcKaw7HDrsOzwpxmZmbCoMOw"
+            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjwqNqX8Kow5TDqsOpwqjCosKdwp/ClsOuw6HCq8Knw67CosKgX8KRw6nDnMKow6nDosKjV1xQwqDDp8Ojw6nCoW1QV8KL5Ye+6YWb5pCf5ZGcwqblhp/kvYflkKdq5b+q6Ki56La+5ryJ562TwpBXXFDCoMK0w5/DrMOFwpjCqVdqwpnCmsKwwq/DnsKWY2Bpw5zDlcOfw57DncKUZGVkwqDCn8KawqDCu8KYwqN5wqbCoMKtwprCoMKwacKUwpNjwqnCrMOdw5vDn8KYwpPCkWTCrsKnwqHCpcKaWsKUwpXCk8Orw6zDqsOtw4XCmMKpV2rCmcKaw7HDrsOzwpxmZmbCoMOw"
         },
         {
             "key": "xifan",
             "name": "🍚稀饭┃动漫┃蓝光",
             "type": 3,
             "api": "csp_AppGetApp",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDssKZwpHCoMKgwqbCpMKtwqnCr2ZpYGDCr8KowqjDnMOpwqZewpHCoMKmw5rDr8Oaw6jCmsKqwpjCn8OuwqHDp8Oyw6vClsKcwp\/CpcOdwqHDncOow6diwpfClcKkw5rDo8OqwqfDrsKrwqRXXMKZwprDg8Onw6PCp8KHwp\/CosOdwprCtMKZwqFaXFBXw63DnMOqwqDCtFNXwovlhrXphaHmkJjlkZ3CpeWHpuS9iuWQp2rlvqHoqL\/otrfmvIrnrZLDl1pcUFfCusOYw63DhMOfwqxXalDCoMKkw7PDk8KswobCoMKeacOkw6XDqMOzw5B+wp9zV8KlwpPCocK6w5\/CpnnCplfCs8KTwqHCqsOzwo1iwoPCoMOnwqzDpcOrw6jCrcKGe8KfwrzCmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw57DnsOdwqXCqcKgwqTDhMOYw7PCoMK0U1fCp8Klw7LDnMKwwq\/CsFrCrQ=="
+            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDssKZwpHCoMKgwqbCpMKtwqnCr2ZpYGDCr8KowqjDnMOpwqZewpHCoMKmw5rDr8Oaw6jCmsKqwpjCn8OuwqHDp8Oyw6vClsKcwp/CpcOdwqHDncOow6diwpfClcKkw5rDo8OqwqfDrsKrwqRXXMKZwprDg8Onw6PCp8KHwp/CosOdwprCtMKZwqFaXFBXw63DnMOqwqDCtFNXwovlhrXphaHmkJjlkZ3CpeWHpuS9iuWQp2rlvqHoqL/otrfmvIrnrZLDl1pcUFfCusOYw63DhMOfwqxXalDCoMKkw7PDk8KswobCoMKeacOkw6XDqMOzw5B+wp9zV8KlwpPCocK6w5/CpnnCplfCs8KTwqHCqsOzwo1iwoPCoMOnwqzDpcOrw6jCrcKGe8KfwrzCmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw57DnsOdwqXCqcKgwqTDhMOYw7PCoMK0U1fCp8Klw7LDnMKwwq/CsFrCrQ=="
         },
         {
             "key": "duanju",
             "name": "🌟星芽┃短剧┃热推",
             "type": 3,
             "api": "csp_AppXY",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
@@ -845,7 +843,7 @@
             "name": "🍉西瓜┃娱乐┃蓝光",
             "type": 3,
             "api": "csp_AmuXiguaV2",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -854,7 +852,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "ext": "w7TCmsK\/w7HDrsKIwqLCnFfCs8KTwqHDocOuwqfCoGpfwqjCp8KxwqfCs2ZeYmHCrsKhwqvCrsKrYsKjwqPCpsOiw6PCqcOjw63CosKeX8Kow6LDmsOvw5rDkGVewprCo8Oow6HCocKlwppawqTCmcKgwqDCrcKawqDDleWGuOmEmOaPleWQk8Kl5Yef5L6R5ZGwwrTlvqTop7botbTmu4DnrZLDkMKhwqXCmlrClMKVwpPDq8Osw6rDrcOFwpjCqVdqwpnCmsOxw67Ds8KcZmZmwqDDsA=="
+            "ext": "w7TCmsK/w7HDrsKIwqLCnFfCs8KTwqHDocOuwqfCoGpfwqjCp8KxwqfCs2ZeYmHCrsKhwqvCrsKrYsKjwqPCpsOiw6PCqcOjw63CosKeX8Kow6LDmsOvw5rDkGVewprCo8Oow6HCocKlwppawqTCmcKgwqDCrcKawqDDleWGuOmEmOaPleWQk8Kl5Yef5L6R5ZGwwrTlvqTop7botbTmu4DnrZLDkMKhwqXCmlrClMKVwpPDq8Osw6rDrcOFwpjCqVdqwpnCmsOxw67Ds8KcZmZmwqDDsA=="
         },
         {
             "key": "虎牙直播js",
@@ -939,8 +937,8 @@
             "key": "有声小说js",
             "name": "📚有声┃小说┃娱乐",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/有声小说吧.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -1018,7 +1016,7 @@
             "name": "📚少儿┃兔兔┃教育",
             "type": 3,
             "api": "csp_WebRabbit",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -1026,14 +1024,14 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "ext": "https:\/\/tuxiaobei.com"
+            "ext": "https://tuxiaobei.com"
         },
         {
             "key": "searchEx",
             "name": "🔍️聚合盘搜┃4K纯净",
             "type": 3,
             "api": "csp_PanWebSearch",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1041,7 +1039,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "http:\/\/我不是.摸鱼儿.com\/json\/aliyunpansearch.json"
+            "ext": "./json/aliyunpansearch.json"
         },
         {
             "key": "UCsousou",
@@ -1052,7 +1050,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1065,7 +1063,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1079,7 +1077,7 @@
             "changeable": 0,
             "ext": {
                 "pan": "quark",
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1092,7 +1090,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1105,7 +1103,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1118,7 +1116,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1131,7 +1129,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1144,7 +1142,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1157,7 +1155,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "TVBox\/Cloud-drive.txt",
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto"
             }
         },
@@ -1166,7 +1164,7 @@
             "name": "📁文件┃夸克┃资源",
             "type": 3,
             "api": "csp_PanQuark",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1181,7 +1179,7 @@
             "name": "📁文件┃阿里┃资源",
             "type": 3,
             "api": "csp_PanAli",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1196,7 +1194,7 @@
             "name": "📁文件┃优视┃资源",
             "type": 3,
             "api": "csp_PanUc",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1211,7 +1209,7 @@
             "name": "📁文件┃百度┃资源",
             "type": 3,
             "api": "csp_PanBaiDu",
-            "jar": "./lib/danmu.jar;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+            "jar": "./lib/danmu.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1279,9 +1277,9 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "http:\/\/127.0.0.1:9978\/file\/TVBox\/token.txt",
-                "cookie": "http:\/\/127.0.0.1:9978\/file\/TVBox\/quark.txt",
-                "uc_cookie": "http:\/\/127.0.0.1:9978\/file\/TVBox\/uc.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
             }
         }
@@ -1291,17 +1289,6 @@
             "name": "聚合",
             "type": 3,
             "url": "Demo"
-        },
-        {
-            "name": "摸鱼皮皮虾",
-            "type": "1",
-            "url": "http:\/\/jiexi.52ppx.top\/lxjson.php?url=",
-            "ext": {
-                "flag": [
-                    "PPXLG",
-                    "皮皮虾4K"
-                ]
-            }
         },
         {
             "name": "♨️zhuimi测试",
@@ -1326,9 +1313,38 @@
             }
         },
 		{
-            "name": "羊羊",
-            "type": 1,
-            "url": "http://117.50.184.199:94/api.php/?key=1&url=",
+			"name": "公益",
+			"type": "1",
+			"url": "http://kcjx.zwzs.fun/json.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
+            "name": "钓鱼",
+            "type": "1",
+            "url": "http://8.129.30.117:8117/diaoyu.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1382,7 +1398,7 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
-        },						
+        },
 		{
 			"name": "虾米",
 			"url": "https://jx.xmflv.com/?url=",
@@ -1558,7 +1574,7 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-                "#EXTINF.*?\\s+.*?\\\/video\\\/original.*?\\.ts"
+                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
             ]
         },
         {
@@ -1634,14 +1650,14 @@
                 "toutiaovod.com"
             ],
             "regex": [
-                "video\/tos\/cn"
+                "video/tos/cn"
             ]
         }
     ],
     "doh": [
         {
             "name": "Google",
-            "url": "https:\/\/dns.google\/dns-query",
+            "url": "https://dns.google/dns-query",
             "ips": [
                 "8.8.4.4",
                 "8.8.8.8"
@@ -1649,7 +1665,7 @@
         },
         {
             "name": "Cloudflare",
-            "url": "https:\/\/cloudflare-dns.com\/dns-query",
+            "url": "https://cloudflare-dns.com/dns-query",
             "ips": [
                 "1.1.1.1",
                 "1.0.0.1",
@@ -1659,7 +1675,7 @@
         },
         {
             "name": "AdGuard",
-            "url": "https:\/\/dns.adguard.com\/dns-query",
+            "url": "https://dns.adguard.com/dns-query",
             "ips": [
                 "94.140.14.140",
                 "94.140.14.141"
@@ -1667,7 +1683,7 @@
         },
         {
             "name": "DNSWatch",
-            "url": "https:\/\/resolver2.dns.watch\/dns-query",
+            "url": "https://resolver2.dns.watch/dns-query",
             "ips": [
                 "84.200.69.80",
                 "84.200.70.40"
@@ -1675,7 +1691,7 @@
         },
         {
             "name": "Quad9",
-            "url": "https:\/\/dns.quad9.net\/dns-quer",
+            "url": "https://dns.quad9.net/dns-quer",
             "ips": [
                 "9.9.9.9",
                 "149.112.112.112"
@@ -1688,7 +1704,7 @@
             "type": 0,
             "url": "",
             "playerType": 1,
-            "ua": "okhttp\/3.15"
+            "ua": "okhttp/3.15"
         }
     ],
     "flags": [

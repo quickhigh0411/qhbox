@@ -2159,29 +2159,7 @@
 					"User-Agent": "okhttp/4.9.1"
 				}
 			}
-		},
-		{
-            "name": "♨️zhuimi测试",
-            "type": "1",
-            "url": "http://zhuimi.xn--v4q818bf34b.com/moyu/zhuimi?token=nLK89qnj&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇异",
-                    "iqiyi",
-                    "youku",
-                    "优酷",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "yk",
-                    "mgtv",
-                    "芒果"
-                ]
-            }
-        },
+		},		
         {
             "name": "羊羊",
             "type": 1,

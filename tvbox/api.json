@@ -73,17 +73,6 @@
             }
         },
         {
-            "key": "菲儿影视",
-            "name": "菲儿｜APP",
-            "type": 3,
-            "api": "csp_AppFerr",
-            "ext": {
-                "url": "https://appcms.freehd.vip",
-                "dataKey": "be5348dfb0c3c283",
-                "dataIv": "5f5449dd14313217"
-            }
-        },
-        {
             "key": "移动",
             "name": "移动｜APP",
             "type": 3,
@@ -188,21 +177,7 @@
                 "deviceId": "",
                 "version": ""
             }
-        },
-        {
-            "key": "追剧",
-            "name": "追剧｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://sjapp.wuyanzu.top/",
-                "dataKey": "weyuhgiohgsytwhj",
-                "dataIv": "weyuhgiohgsytwhj",
-                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-                "version": "119"
-            }
-        },
+        },        
         {
             "key": "沐沐",
             "name": "沐沐｜APP",
@@ -258,49 +233,7 @@
                 "deviceId": "20d9b2c01d130342a99fdc8d693bfc0cd",
                 "version": "112"
             }
-        },
-        {
-            "key": "恋鱼",
-            "name": "恋鱼｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://14.103.245.78",
-                "dataKey": "2234567890123456",
-                "dataIv": "2234567890123456",
-                "deviceId": "",
-                "version": "119"
-            }
-        },
-        {
-            "key": "开心",
-            "name": "开心｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://tv.31hl.cn",
-                "dataKey": "2268331221bobobo",
-                "dataIv": "2268331221bobobo",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
-            "key": "豆豆",
-            "name": "豆豆｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://110.42.7.59:9427",
-                "dataKey": "xasdasdqwertyuio",
-                "dataIv": "xasdasdqwertyuio",
-                "deviceId": "",
-                "version": "304"
-            }
-        },
+        },        
         {
             "key": "淘气",
             "name": "淘气｜APP",
@@ -328,35 +261,7 @@
                 "deviceId": "",
                 "version": ""
             }
-        },
-        {
-            "key": "乐乐",
-            "name": "乐乐｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://get.le163.top",
-                "dataKey": "4f870065c9c193fc",
-                "dataIv": "4f870065c9c193fc",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
-            "key": "乐看",
-            "name": "乐看｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.weis.vip",
-                "dataKey": "e65144389e9361b5",
-                "dataIv": "e65144389e9361b5",
-                "deviceId": "",
-                "version": ""
-            }
-        },
+        },       
         {
             "key": "梦缘",
             "name": "梦缘｜APP",
@@ -468,21 +373,7 @@
                 "deviceId": "",
                 "version": "100"
             }
-        },
-        {
-            "key": "玉米",
-            "name": "玉米｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.zjc.app",
-                "dataKey": "ab4e9a421675f14b",
-                "dataIv": "ab4e9a421675f14b",
-                "deviceId": "",
-                "version": "442"
-            }
-        },
+        },       
         {
             "key": "优质",
             "name": "优质｜APP",
@@ -624,20 +515,6 @@
             }
         },
         {
-            "key": "鲨鱼",
-            "name": "鲨鱼｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://cms.wlbbq.xyz",
-                "dataKey": "sdev15rwsa96fsde",
-                "dataIv": "sdev15rwsa96fsde",
-                "deviceId": "",
-                "version": "102"
-            }
-        },
-        {
             "key": "趣看",
             "name": "趣看｜APP",
             "type": 3,
@@ -649,46 +526,7 @@
                 "dataIv": "c995826a3e86fedd",
                 "jxurl": "https://www.ququkan.cc"
             }
-        },
-        {
-            "key": "驿站",
-            "name": "驿站｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://110.42.110.230:16189",
-                "dataKey": "d7378557d1d9c924",
-                "dataIv": "fb4594f622f34fea",
-                "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
-            }
-        },
-        {
-            "key": "主角",
-            "name": "主角｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "https://vodapp.feiwang.cc",
-                "dataKey": "25f9e794323b4538",
-                "dataIv": "25f9e794323b4538",
-                "jxurl": "https://vod.feiwang.cc"
-            }
-        },
-        {
-            "key": "二三",
-            "name": "二三｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://cs4.123ysw.com",
-                "dataKey": "d3238930e3ae0724",
-                "dataIv": "d3238930e3ae0724",
-                "jxurl": "https://123ysw.com"
-            }
-        },
+        },              
         {
             "key": "哔哩视频",
             "name": "哔哩｜视频",
@@ -2304,6 +2142,16 @@
             "name": "冰豆",
             "type": 0,
             "url": "https://bd.jx.cn/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "夜幕",
+            "type": 0,
+            "url": "https://yemu.xyz/?url=",
             "ext": {
                 "header": {
                     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"

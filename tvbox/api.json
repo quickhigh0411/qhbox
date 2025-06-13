@@ -73,17 +73,6 @@
             }
         },
         {
-            "key": "菲儿影视",
-            "name": "菲儿｜APP",
-            "type": 3,
-            "api": "csp_AppFerr",
-            "ext": {
-                "url": "https://appcms.freehd.vip",
-                "dataKey": "be5348dfb0c3c283",
-                "dataIv": "5f5449dd14313217"
-            }
-        },
-        {
             "key": "移动",
             "name": "移动｜APP",
             "type": 3,
@@ -173,6 +162,30 @@
                 "dataIv": "ca94b06ca359d80e",
                 "deviceId": "",
                 "version": "120"
+            }
+        },
+        {
+            "key": "满分",
+            "name": "满分｜APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://111.173.115.215:9118/icciu_api.php/v1.vod"
+        },
+        {
+            "key": "海豚",
+            "name": "海豚｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.htsp4k.top",
+                "dataKey": "7CYQQzwchRQpHCOj",
+                "dataIv": "7CYQQzwchRQpHCOj",
+                "deviceId": "",
+                "version": ""
             }
         },
         {

@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号:科技天微：限自用测试 禁传播贩卖（6月1日更）",
+      "name": "公众号:科技天微：限自用测试 禁传播贩卖（6月15日更）",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -155,22 +155,7 @@
       "filterable": 1,
       "ext": "http://172.83.156.150:1010/api.php/app/"
     },
-
-    
-            {
-            "key": "晴天",
-            "name": "☀晴天🔹弹幕",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://qjappcms.sun4k.top",
-                "dataKey": "sBxqXVF5pAHbGzrH",
-                "dataIv": "sBxqXVF5pAHbGzrH",
-                "deviceId": "",
-                "version": "119"
-            }
-        },
+                
     {
       "key": "金牌影视",
       "name": "☀天微🔹金牌",
@@ -184,8 +169,80 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
+    {
+      "key": "星河",
+      "name": "☀星河🔹速播",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://121.62.22.204:9876",
+        "dataKey": "f5e2tx53ykp6s2c9",
+        "dataIv": "f5e2tx53ykp6s2c9",
+        "deviceId": "",
+        "version": "361"
+      }
+    },
     
     
+    {
+            "key": "晴天",
+            "name": "☀晴天🔹4K源",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://qjappcms.sun4k.top",
+                "dataKey": "sBxqXVF5pAHbGzrH",
+                "dataIv": "sBxqXVF5pAHbGzrH",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
+      "key": "雄鹰",
+      "name": "☀雄鹰🔹4k源",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://122.228.193.2:9988",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+            "key": "橘猫",
+            "name": "☀橘猫🔹4k源",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.jm4k.top",
+                "dataKey": "pBVmysmGX8TsgrQN",
+                "dataIv": "pBVmysmGX8TsgrQN",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        
+        
+        {
+            "key": "海豚",
+            "name": "☀海豚🔹4k源",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.htsp4k.top",
+                "dataKey": "7CYQQzwchRQpHCOj",
+                "dataIv": "7CYQQzwchRQpHCOj",
+                "deviceId": "",
+                "version": ""
+            }
+        },
            {
             "key": "水滴",
             "name": "☀水滴🔹影视",
@@ -260,20 +317,7 @@
         "url": "http://v.lkuys.cn"
       }
     },
-    {
-      "key": "星河",
-      "name": "☀星河🔹速播",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://121.62.22.204:9876",
-        "dataKey": "f5e2tx53ykp6s2c9",
-        "dataIv": "f5e2tx53ykp6s2c9",
-        "deviceId": "",
-        "version": "361"
-      }
-    },
+    
     {
       "key": "趣看",
       "name": "☀趣看🔹秒播",

@@ -81,6 +81,18 @@
             "quickSearch": 1
         },
         {
+            "key": "行动",
+            "name": "行动｜APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://160.202.246.9:2356",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "aassddwwxxllsx1x",
+                "key3": "aassddwwxxllsx1x"
+            }
+        },
+        {
             "key": "仓鼠",
             "name": "仓鼠｜APP",
             "type": 3,
@@ -151,6 +163,20 @@
             }
         },
         {
+            "key": "魔方",
+            "name": "魔方｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
             "key": "海豚",
             "name": "海豚｜APP",
             "type": 3,
@@ -176,6 +202,20 @@
                 "dataIv": "NiDGaKiVnkO3QX1Q",
                 "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
                 "version": "200"
+            }
+        },
+        {
+            "key": "剧咖",
+            "name": "剧咖｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://ys.xiaoqi0.cn",
+                "dataKey": "jukayingshi88888",
+                "dataIv": "jukayingshi88888",
+                "deviceId": "20d9b2c01d130342a99fdc8d693bfc0cd",
+                "version": "112"
             }
         },
         {
@@ -386,6 +426,19 @@
                 "dataIv": "708FA298F0855840",
                 "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
                 "version": "103"
+            }
+        },
+        {
+            "key": "樱桃",
+            "name": "樱桃｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://sp.dxgsp.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://ap.dxgsp.cc"
             }
         },
         {

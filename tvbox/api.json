@@ -14,7 +14,7 @@
             "key": "预告",
             "name": "新片｜预告",
             "type": 3,
-            "api": "csp_DouBan",
+            "api": "csp_YGP",
             "searchable": 0
         },
         {
@@ -188,6 +188,34 @@
             }
         },
         {
+            "key": "仓鼠",
+            "name": "仓鼠｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.cs4k.top",
+                "dataKey": "Z98KXaLtO2wC1Pte",
+                "dataIv": "Z98KXaLtO2wC1Pte",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "光盘",
+            "name": "光盘｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://119.13.88.18",
+                "dataKey": "xnybssspqtwotuwj",
+                "dataIv": "xnybssspqtwotuwj",
+                "deviceId": "",
+                "version": "101"
+            }
+        },
+        {
             "key": "客星",
             "name": "客星｜APP",
             "type": 3,
@@ -202,8 +230,8 @@
             }
         },
         {
-            "key": "仓鼠",
-            "name": "仓鼠｜APP",
+            "key": "优质",
+            "name": "优质｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -242,6 +270,20 @@
                 "dataIv": "KL6vlZkw6WL5x90U",
                 "deviceId": "4b4c36766c5a6b7736574c3578393055",
                 "version": "119"
+            }
+        },
+        {
+            "key": "魔方",
+            "name": "魔方｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
             }
         },
         {
@@ -453,7 +495,7 @@
                 "deviceId": "",
                 "version": ""
             }
-        },
+        },        
         {
             "key": "诺映",
             "name": "诺映｜APP",
@@ -689,21 +731,6 @@
                 "ratio": 1.433
             },
             "ext": "./json/lj.json"
-        },
-        {
-            "key": "海绵",
-            "name": "海绵｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudHM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/hm.json"
         },
         {
             "key": "夸父",
@@ -1276,6 +1303,34 @@
             }
         },
         {
+            "key": "次元动漫",
+            "name": "次元｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://jjjj.nilinili.org",
+                "dataKey": "672263e98f232a05",
+                "dataIv": "672263e98f232a05",
+                "deviceId": "",
+                "version": "170"
+            }
+        },
+        {
+            "key": "黑猫动漫",
+            "name": "黑猫｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dm.xxdm123.top:9991",
+                "dataKey": "0fe3b5781782c621",
+                "dataIv": "0fe3b5781782c621",
+                "deviceId": "",
+                "version": "203"
+            }
+        },
+        {
             "key": "樱花动漫",
             "name": "樱花｜动漫",
             "type": 3,
@@ -1316,6 +1371,13 @@
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/花子动漫.js"
+        },
+        {
+            "key": "樱花动漫",
+            "name": "樱花｜动漫",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/樱花动漫.js"
         },
         {
             "key": "动画片",
@@ -1364,8 +1426,7 @@
             "name": "荐片｜磁力",
             "api": "csp_Jianpian",
             "type": 3,
-            "playerType": 1,
-            "ext": "http://api2.rinhome.com"
+            "playerType": 1
         },
         {
             "key": "修罗影视",
